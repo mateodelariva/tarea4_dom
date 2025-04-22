@@ -1,6 +1,6 @@
 # tarea4_dom
 ejercicios básicos sobre manejo del DOM con js
-```markdown
+
 # 📚 Proyectos de Clase 8 – JavaScript & DOM Colaborativo
 
 Este repositorio centraliza las páginas individuales de cada alumno y muestra dinámicamente su trabajo usando JavaScript y la API Fetch. Cada estudiante creará su propia página, la registrará en un fichero JSON y abrirá un Pull Request para que su ejercicio aparezca en la galería.
@@ -18,7 +18,7 @@ Este repositorio centraliza las páginas individuales de cada alumno y muestra d
 
 ## 📁 Estructura del proyecto
 
-```plaintext
+
 /
 ├── index.html          ← Página principal (galería de alumnos)
 ├── students.json       ← Lista de alumnos con nombre, URL y descripción
@@ -26,9 +26,7 @@ Este repositorio centraliza las páginas individuales de cada alumno y muestra d
 ├── script.js           ← Lógica para cargar y renderizar students.json
 └── /alumnos/           ← Carpeta donde cada alumno crea su página
     └── tu-nombre.html  ← Tu ejercicio individual
-```
 
----
 
 ## 🔧 Configuración y vista previa local
 
