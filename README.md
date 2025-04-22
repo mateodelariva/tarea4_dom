@@ -111,7 +111,7 @@ Los alumnos deben implementar **al menos tres** de las siguientes ideas —o pro
 ## 🌐 GitHub Pages
 
 La galería está publicada en:  
-https://TU-USUARIO.github.io/css-moderno-colaborativo/
+https://pw1-2025.github.io/tarea4_dom/
 
 Cada vez que un PR se mergea en `main`, tu tarjeta y página individual aparecerán en la galería.
 
