@@ -1,0 +1,22 @@
+*{
+    font-family: monospace;
+}
+#contenedor > *{
+    display: block;
+    margin: 10px 0px;
+}
+table{
+    display: inline;
+    border-collapse: collapse;
+}
+#contenedor td{
+    border: 2px solid #999;
+    padding: 2px;
+}
+#contenedor tr:nth-of-type(odd){
+    background: #ddd;
+}
+@keyframes animacion1 {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
