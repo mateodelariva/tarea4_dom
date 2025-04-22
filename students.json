@@ -1,0 +1,41 @@
+
+
+  [
+    {
+        "name": "HE",
+        "url": "alumnos/he.html",
+        "avatar": "https://avatars.githubusercontent.com/u/28764962?v=4",  
+        "description": "test"
+      },
+    { 
+      "name": "Ana López",
+      "url": "alumnos/ana-lopez.html",
+      "description": "Mi ejercicio DOM básico"
+    },
+    {
+      "name": "Juan Pérez",
+      "url": "alumnos/juan-perez.html",
+      "description": "Mi ejercicio DOM básico"
+    },
+    {
+        "name": "Juan Pérez",
+        "url": "alumnos/juan-perez.html",
+        "description": "Mi ejercicio DOM básico"
+      },
+    {
+        "name": "Juan Pérez",
+        "url": "alumnos/juan-perez.html",
+        "description": "Mi ejercicio DOM básico"
+      },
+    {
+        "name": "Juan Pérez",
+        "url": "alumnos/juan-perez.html",
+        "description": "Mi ejercicio DOM básico"
+      },
+    {
+        "name": "Juan Pérez",
+        "url": "alumnos/juan-perez.html",
+        "description": "Mi ejercicio DOM básico"
+      }
+  ]
+  

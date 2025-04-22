@@ -79,11 +79,28 @@ Este repositorio centraliza las páginas individuales de cada alumno y muestra d
 
 ---
 
-## 🎯 Ejercicios obligatorios
+## 🎯 Ejercicios DOM (¡Sé creativo!)
 
-1. **Mostrar/ocultar** el título de tu página con un botón (`style.display` o `classList.toggle`).  
-2. **Input color** que cambie el fondo de tu página en tiempo real.  
-3. **Campo de texto** que actualice otro elemento al escribir.  
+Los alumnos deben implementar **al menos tres** de las siguientes ideas —o proponer otras propias— usando JavaScript y el DOM:
+
+1. **Crear, modificar y eliminar elementos**  
+   - Ejemplo: añadir tarjetas de contenido (`createElement` + `appendChild`), actualizar texto o atributos (`textContent`, `setAttribute`), y borrar nodos (`removeChild`).
+
+2. **Mostrar/ocultar** partes de la página  
+   - Con botones o eventos, usando `style.display`, `classList.toggle` o manipulando clases CSS.
+
+3. **Cambiar estilos en tiempo real**  
+   - Usa elementos `<input type="color">`, `<input type="range">` o menús `<select>` para ajustar propiedades como fondo, tamaño de fuente o bordes.
+
+4. **Actualizar contenido dinámicamente**  
+   - Al escribir en un campo de texto, refleja el valor en otro elemento (`input` → `keyup`/`input`).
+
+5. **Manejo de eventos adicionales**  
+   - Prueba con `mouseover`, `mouseout`, `keydown`, `submit`, etc., para interactuar con la página de formas originales.
+
+---
+
+> 💡 **Tip:** Documenta brevemente en tu PR qué operaciones DOM implementaste y por qué, ¡queremos ver tu creatividad en acción!
 
 ### 🔥 Desafío extra
 - Añade un filtro de búsqueda en `index.html` (por nombre) usando un `<input>` y escuchadores de evento `input`.  
