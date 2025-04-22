@@ -18,7 +18,7 @@ Este repositorio centraliza las páginas individuales de cada alumno y muestra d
 
 ## 📁 Estructura del proyecto
 
-
+```plaintext
 /
 ├── index.html          ← Página principal (galería de alumnos)
 ├── students.json       ← Lista de alumnos con nombre, URL y descripción
@@ -26,7 +26,9 @@ Este repositorio centraliza las páginas individuales de cada alumno y muestra d
 ├── script.js           ← Lógica para cargar y renderizar students.json
 └── /alumnos/           ← Carpeta donde cada alumno crea su página
     └── tu-nombre.html  ← Tu ejercicio individual
+```
 
+---
 
 ## 🔧 Configuración y vista previa local
 
