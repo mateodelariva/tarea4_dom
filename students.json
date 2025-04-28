@@ -14,8 +14,9 @@
       "description": "Trabajo realizado en PW1 en 2017"
     },
     {
-      "name": "Juan Pérez",
-      "url": "alumnos/juan-perez.html",
+      "name": "Ale Rojas",
+      "url": "alumnos/AleRojas/alerojas.html",
+      "avatar": "alumnos/AleRojas/alefoto4.jpg",
       "description": "Mi ejercicio DOM básico"
     },
     {
