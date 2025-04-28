@@ -14,6 +14,12 @@
       "description": "Trabajo realizado en PW1 en 2017"
     },
     {
+      "name": "Wilson Arevalos",
+      "url": "alumnos/WA/wa.html",
+      "avatar": "alumnos/WA/img/Wilson.jpg",
+      "description": "Tarea 4 Barcelona Playground"
+    },
+    {
       "name": "Juan Pérez",
       "url": "alumnos/juan-perez.html",
       "description": "Mi ejercicio DOM básico"
