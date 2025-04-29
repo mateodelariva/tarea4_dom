@@ -53,6 +53,13 @@
         "name": "Juan Pérez",
         "url": "alumnos/juan-perez.html",
         "description": "Mi ejercicio DOM básico"
+      },
+    {
+        "name": "Alexis Guerrero",
+        "url": "alumnos/AG/ag.html",
+        "avatar": "https://tr.rbxcdn.com/180DAY-a8273bb70d4ded6359cd241f40ef543d/420/420/Hat/Webp/noFilter",
+        "description": "Mi trabajo practico de DOM"
       }
+    
   ]
   
