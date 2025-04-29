@@ -19,6 +19,11 @@
       "description": "Mi ejercicio DOM básico"
     },
     {
+        "name": "César Medina",
+        "url": "alumnos/CM/CM.html",
+        "description": "Una lista que se puede modificar de manera dinamica usando Javascript vanilla"
+      },
+    {
         "name": "Juan Pérez",
         "url": "alumnos/juan-perez.html",
         "description": "Mi ejercicio DOM básico"
