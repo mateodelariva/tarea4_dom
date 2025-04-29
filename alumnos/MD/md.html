@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicios DOM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>🎯 Ejercicios DOM</h1>
+
+    <p>Agregar elementos interactivos</p>
+    <div id="botones">
+        <button id="button">Button</button>
+        <button id="input">Input</button>
+        <button id="table">Tabla</button>
+        <button id="a">Link</button>
+        <button id="select">Select</button>
+        <button id="agregarTarjeta">Agregar Tarjeta</button>
+    </div>
+
+    <p>Seleccionar elemento</p>
+    <select id="elemento">
+        <option value="-1">Seleccionar elemento</option>
+    </select>
+    <button id="btnEliminar">Eliminar</button>
+
+    <p>Elegir propiedad</p>
+    <select id="propiedades">
+        <option value="-1">Seleccionar propiedad</option>
+    </select>
+
+    <p>Elegir valor</p>
+    <select id="valor">
+        <option value="-1">Seleccionar valor</option>
+    </select>
+
+    <p><button id="btnAplicar">Aplicar estilo</button></p>
+
+    <hr>
+
+    <div id="contenedor"></div>
+
+    <!-- Ejercicio 2: Mostrar / Ocultar -->
+    <section>
+        <h2>Mostrar/Ocultar texto</h2>
+        <button id="toggleParrafo">Mostrar/Ocultar texto</button>
+        <p id="textoOculto" style="display: none;">Este es un texto que se puede ocultar o mostrar.</p>
+    </section>
+
+    <!-- Ejercicio 3: Cambiar color de fondo -->
+    <section>
+        <h2>Cambiar fondo en tiempo real</h2>
+        <label for="colorFondo">Color de fondo:</label>
+        <input type="color" id="colorFondo" value="#cccccc">
+        <div id="areaColor">Zona de color</div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
