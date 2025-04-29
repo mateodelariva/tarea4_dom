@@ -1,4 +1,4 @@
-fetch('students.json')
+fetch('students.json?nocache=' + Date.now())
   .then(res => res.json())
   .then(students => {
     const container = document.getElementById('student-list');
@@ -7,7 +7,7 @@ fetch('students.json')
       card.className = 'student-card';
       card.innerHTML = `
         <a href="${s.url}">
-          <img src="${s.avatar || 'default-avatar.png'}" alt="Avatar de ${s.name}">
+          <img src="${s.avatar ? s.avatar : 'default-avatar.png'}" alt="Avatar de ${s.name}">
           <h2>${s.name}</h2>
           <p>${s.description}</p>
         </a>
