@@ -23,11 +23,18 @@
     
     {
 
+      "name": "Wilson Arevalos",
+      "url": "alumnos/WA/wa.html",
+      "avatar": "alumnos/WA/img/Wilson.jpg",
+      "description": "Tarea 4 Barcelona Playground"
+    },
+    {
       "name": "Ale Rojas",
       "url": "alumnos/AleRojas/alerojas.html",
       "avatar": "alumnos/AleRojas/alefoto4.jpg",
       "description": "Mi ejercicio DOM básico"
     },
+    {
       "name": "Jorge Areco",
       "url": "alumnos/JA/jorge-areco.html",
       "avatar": "https://avatars.githubusercontent.com/u/88943942?s=400&u=ed7c1817e0d7ced265a79b4143b084a5e90a992f&v=4",
